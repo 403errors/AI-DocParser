@@ -10,3 +10,8 @@
 - **AI-Powered Analysis**: Use machine learning models to understand and process text.
 - **Customizable Workflows**: Easily adapt to different use cases by modifying parameters or integrating additional models.
 - **Model Retraining**: Fine-tune the parsing model with custom datasets for improved accuracy.
+
+## Tech Stack
+
+- Implemented SpaCy for Named Entity Recognition, text extraction using fitz with accuracy of 99.22%
+- Optimized data extraction with reinforcement learning, achieving high performance in dynamic PDFs
