@@ -23,4 +23,5 @@
 ## Tech Stack
 
 - Implemented SpaCy for Named Entity Recognition, text extraction using fitz with accuracy of 99.22%
+- Used RegEx for special type extractioon like date from the legal documents.
 - Optimized data extraction with reinforcement learning, achieving high performance in dynamic PDFs
