@@ -7,10 +7,10 @@
 ## Example
 
 ### Input:
-![input image](imgs/input_sample.png).
+![input image](imgs/input_sample.png)
 
 ### Output:
-![input image](imgs/output_sample.png).
+![input image](imgs/output_sample.png)
 
 
 ## Features
